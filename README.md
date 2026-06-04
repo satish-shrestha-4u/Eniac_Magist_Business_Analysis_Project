@@ -15,7 +15,6 @@ Eniac wants to scale internationally while maintaining its strong customer-focus
 
 ## Tools Used
 
-- SQL
 - MySQL
 - Tableau
 - Business analysis
