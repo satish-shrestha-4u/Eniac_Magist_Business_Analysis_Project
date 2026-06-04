@@ -21,7 +21,7 @@ Eniac wants to scale internationally while maintaining its strong customer-focus
 - Business analysis
 - Data storytelling
 
-Key Analysis Areas
+## Key Analysis Areas
 
 * Order volume and delivery performance
 * Product category analysis
@@ -30,13 +30,13 @@ Key Analysis Areas
 * Delivery delays
 * Business opportunities and risks
 
-Summary of Findings
+## Summary of Findings
 
 The analysis showed that Magist has a large order volume and an established marketplace structure. However, Eniac’s product category, focused on high-end Apple-related products and accessories, may not fully match Magist’s strongest categories.
 
 Delivery performance was generally acceptable, but delays and customer experience risks should be considered carefully.
 
-Recommendation
+**Recommendation**
 
 A cautious market entry through Magist is recommended.
 
