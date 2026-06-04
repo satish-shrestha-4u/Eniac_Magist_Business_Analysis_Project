@@ -36,7 +36,7 @@ The analysis showed that Magist has a large order volume and an established mark
 
 Delivery performance was generally acceptable, but delays and customer experience risks should be considered carefully.
 
-**Recommendation**
+## Recommendation
 
 A cautious market entry through Magist is recommended.
 
