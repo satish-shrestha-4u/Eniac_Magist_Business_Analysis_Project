@@ -17,6 +17,7 @@ Eniac wants to scale internationally while maintaining its strong customer-focus
 
 - MySQL
 - Tableau
+- Google Slides
 - Business analysis
 - Data storytelling
 
@@ -41,6 +42,7 @@ A cautious market entry through Magist is recommended.
 
 Eniac should start with a limited product selection, test demand for tech-related products, monitor delivery performance, and evaluate whether Magist can support Eniac’s premium brand positioning before scaling further.
 
+The final recommendation is a “Conditional Yes.” Magist has strong potential for growth, especially in São Paulo. However, the analysis found delivery, infrastructure, and security concerns in wider Brazilian regions. A merger is recommended only if Eniac follows a structured three-phase plan to improve operations and protect its premium brand image.
 Project Goal
 
 This project demonstrates my ability to use SQL and Tableau for business analysis, interpret data from a business perspective, and communicate recommendations clearly.
