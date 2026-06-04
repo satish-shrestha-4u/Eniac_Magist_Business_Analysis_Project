@@ -53,4 +53,4 @@ data/           Notes about the dataset
 sql/            SQL queries used for the analysis
 tableau/        Dashboard screenshots or Tableau links
 presentation/   Final presentation or report
-images/         ER diagrams and supporting images
+images/         Supporting images
