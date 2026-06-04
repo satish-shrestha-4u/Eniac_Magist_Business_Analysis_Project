@@ -1,3 +1,5 @@
-# Images
+# LMS Screenshots
 
-This folder contains supporting images for the project, such as ER diagrams, screenshots, and visuals used in the README or presentation.
+This folder contains screenshots from the WBS Coding School LMS pages related to the Eniac and Magist business case study.
+
+These screenshots provide project context, including the company background, database context, and project requirements.
