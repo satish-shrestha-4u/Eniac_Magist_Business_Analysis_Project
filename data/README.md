@@ -10,4 +10,4 @@ The analysis was completed using the Magist database, which represents a Brazili
 
 - `magist_schema.sql` — database schema structure
 
-- `magist_schema.pdf` — schema documentation or ER diagram
+- `magist_schema_er.pdf` — schema documentation or ER diagram
