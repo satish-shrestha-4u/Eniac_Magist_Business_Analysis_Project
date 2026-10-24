@@ -1,58 +1,84 @@
-# Eniac_Magist_Business_Analysis
-SQL and Tableau case study analysing whether Eniac should expand into Brazil through Magist.
+# 🌎 Eniac Magist Business Analysis
+SQL and Tableau business analysis case study evaluating whether Eniac should expand into Brazil through Magist.
 
-This project is an SQL and Tableau case study completed during my Data Science & AI training.
+This project is an SQL and Tableau business analysis case study completed during my Data Science & AI training.
 
-The goal of the project was to analyse whether Eniac, a Spain-based e-commerce company specialising in Apple products and tech accessories, should expand into the Brazilian market through Magist, a Brazilian marketplace.
+The goal of the project was to analyse whether Eniac, a Spain-based e-commerce company specialising in Apple products and tech accessories, should expand into the Brazilian market by partnering with Magist, a Brazilian marketplace.
 
-## Business Question
+## 🎯 Business Question
 
 Should Eniac enter the Brazilian market by partnering with Magist?
 
-## Project Context
+## 🏢 Project Context
 
-Eniac wants to scale internationally while maintaining its strong customer-focused brand. Magist offers access to the Brazilian e-commerce market, but the decision depends on product fit, seller quality, delivery performance, and overall business risk.
+Eniac wants to scale internationally while maintaining its strong customer-focused and premium brand positioning. 
+Magist provides access to the Brazilian e-commerce market, but the potential partnership depends on several factors, including:
+- 📦 Product and category fit
+- 🏪 Seller quality
+- 🚚 Delivery performance
+- 👥 Customer experience
+- ⚠️ Overall business and operational risks
+The analysis evaluates these factors to determine whether Magist is a suitable partner for Eniac's expansion.
 
-## Tools Used
+## 🛠️ Tools & Technologies
+- 🗄️ MySQL
+- 📊 Tableau
+- 🖥️ Google Slides
+- 📈 Business Analysis
+- 📖 Data Storytelling
 
-- MySQL
-- Tableau
-- Google Slides
-- Business analysis
-- Data storytelling
+## 🔍 Key Analysis Areas
+The analysis focused on:
+- 📦 Order volume and delivery performance
+- 🏷️ Product category analysis
+- 💻 Tech product availability
+- 🏪 Seller analysis
+- 🚚 Delivery delays
+- 💡 Business opportunities
+- ⚠️ Market and operational risks
 
-## Key Analysis Areas
+## 💡 Key Findings
 
-* Order volume and delivery performance
-* Product category analysis
-* Tech product availability
-* Seller analysis
-* Delivery delays
-* Business opportunities and risks
+The analysis showed that Magist has a large order volume and an established marketplace structure. However, Eniac’s product category, focused on high-end Apple-related products and accessories, may not fully align with Magist’s strongest product categories.
 
-## Summary of Findings
+Delivery performance was generally acceptable, but delivery delays and customer experience risks need to be considered carefully when evaluating the partnership.
 
-The analysis showed that Magist has a large order volume and an established marketplace structure. However, Eniac’s product category, focused on high-end Apple-related products and accessories, may not fully match Magist’s strongest categories.
+The analysis also identified regional differences, with São Paulo showing particularly strong potential, while wider Brazilian regions presented additional delivery, infrastructure, and security concerns.
 
-Delivery performance was generally acceptable, but delays and customer experience risks should be considered carefully.
+## 🎯 Recommendation
 
-## Recommendation
+Conditional Yes!
 
 A cautious market entry through Magist is recommended.
 
-Eniac should start with a limited product selection, test demand for tech-related products, monitor delivery performance, and evaluate whether Magist can support Eniac’s premium brand positioning before scaling further.
+Eniac should:
+- 🚀 Start with a limited selection of products
+- 🧪 Test demand for technology-related products
+- 🚚 Closely monitor delivery performance
+- 📊 Evaluate seller and marketplace performance
+- 🏆 Protect Eniac's premium brand positioning
+- 📈 Scale only after the initial market entry demonstrates sufficient potential
 
-The final recommendation is a “Conditional Yes.” Magist has strong potential for growth, especially in São Paulo. However, the analysis found delivery, infrastructure, and security concerns in wider Brazilian regions. A merger is recommended only if Eniac follows a structured three-phase plan to improve operations and protect its premium brand image.
-Project Goal
+Magist has strong growth potential, particularly in São Paulo. However, the identified delivery, infrastructure, and security concerns mean that expansion should follow a structured approach rather than an immediate large-scale rollout.
 
-This project demonstrates my ability to use SQL and Tableau for business analysis, interpret data from a business perspective, and communicate recommendations clearly.
+A three-phase plan is recommended to gradually test the market, improve operational readiness, and scale the partnership while protecting Eniac's brand image.
 
+## 📊 Project Outcome
+
+This project demonstrates the ability to use SQL and Tableau to transform business data into actionable insights.
+
+It combines:
+
+Data → SQL Analysis → Tableau Visualisation → Business Interpretation → Strategic Recommendation
+
+The project demonstrates how technical data analysis can support an international market-entry decision by evaluating market potential, product fit, operational performance, and business risk.
 
 ## Repository Structure
 
 ```text
 data/           Notes about the dataset
 sql/            SQL queries used for the analysis
-tableau/        Dashboard screenshots or Tableau links
+tableau/        Dashboard screenshots and Tableau resources
 presentation/   Final presentation or report
-images/         Supporting images
+images/         Supporting project images
+```
